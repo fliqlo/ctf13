@@ -12,5 +12,8 @@ So where's the flag hiding?
 
 The flag is base on base64.
 
+**Hint:**
+Transmission Reference.
+
 # Sumbit the flag here:
 https://forms.gle/PScqi4GwD2Lba64a7
