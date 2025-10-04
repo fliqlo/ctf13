@@ -6,7 +6,7 @@ Capture The Flag(This is for Educational Purposes Only). Mind G4m3s.
 
 In the puzzle I'm the first, \
 In the puzzle I'm the fifth, \
-In the puzzle I'm the last. \
+In the puzzle I'm the last.
 
 So where's the flag hiding?
 
